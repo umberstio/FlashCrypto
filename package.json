@@ -1,0 +1,14 @@
+{
+  "name": "flashcrypto",
+  "version": "1.0.0",
+  "description": "App que obtiene datos del mercado de criptomonedas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  }
+}
