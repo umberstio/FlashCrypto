@@ -1,15 +1,11 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Mi tempalte con webpack
 
-This project has been created using **webpack scaffold**, you can now run
+- Instala las dependencias  -->   npm install
+- Genera el bundle          -->   npx webpack, npx webpack --watch
+- Bundle para producción    -->   npx webpack -p
 
-```
-npm run build
-```
 
-or
+- Info webpack loaders --> https://medium.com/@sergiodxa/compilando-el-frontend-con-webpack-d251f7a632ec
 
-```
-yarn build
-```
 
-to bundle your application
+Umberto Stio.
